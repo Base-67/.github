@@ -1,7 +1,7 @@
 # Base67
 
 <p align="center">
-  <img src="./assets/base67-banner.jpg" alt="Base67 Banner" width="100%">
+  <img src="./assets/base67-banner-cropped-processed.png" alt="Base67 Banner" width="100%">
 </p>
 
 <p align="center">
